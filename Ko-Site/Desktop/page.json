@@ -1,0 +1,149 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B7B4A4C-4E30-4209-9DFE-3411EA6FD833",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -406,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "77453F05-3B35-4FB0-A61D-6293BBF1C586"
+    },
+    {
+      "class": "artboard",
+      "id": "C45C89DA-0B00-461F-B937-9F91A9F7CCC5"
+    },
+    {
+      "class": "artboard",
+      "id": "B0C19797-FC18-42CC-922A-624F343B8D0F"
+    },
+    {
+      "class": "artboard",
+      "id": "99BB886C-88C6-4F3F-BC80-ECB04A21A4F1"
+    },
+    {
+      "class": "artboard",
+      "id": "6280214A-C97A-48D2-ADDA-7EB5102F8F1F"
+    },
+    {
+      "class": "artboard",
+      "id": "F896BD36-1832-45B0-B6D7-6E78CC54C9B6"
+    },
+    {
+      "class": "artboard",
+      "id": "11F0FE39-8608-41E1-B542-356EE42B8356"
+    },
+    {
+      "class": "artboard",
+      "id": "FBC7BA6E-F8EE-4D23-BF6B-9DE645064A0A"
+    },
+    {
+      "class": "artboard",
+      "id": "75CDBB95-8630-4A40-957B-91474C955CD2"
+    },
+    {
+      "class": "artboard",
+      "id": "FBCE71B1-445B-4183-A059-60FC7C03C419"
+    },
+    {
+      "class": "artboard",
+      "id": "6C89898F-A9AE-498F-B485-1A7D4333299D"
+    },
+    {
+      "class": "artboard",
+      "id": "D1D5B8E6-57C2-408D-9E0A-98EB5EFFFFB5"
+    }
+  ],
+  "name": "Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B3B7E9C9-22EC-4859-9BE4-E626B526D52B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -327,
+    "guides": [
+    ]
+  }
+}
