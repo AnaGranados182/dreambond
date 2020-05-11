@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Showing 1 - to9 of 9 jobs"
+    "string": "Showing 1 - of 9 jobs"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 198,
-    "x": 423,
+    "width": 167,
+    "x": 416,
     "y": 232
   },
-  "glyphBounds": "{{0, 3}, {197, 18}}",
+  "glyphBounds": "{{0, 3}, {166, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Showing 1 - to9 of 9",
+  "name": "Showing 1 - of 9 job",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
