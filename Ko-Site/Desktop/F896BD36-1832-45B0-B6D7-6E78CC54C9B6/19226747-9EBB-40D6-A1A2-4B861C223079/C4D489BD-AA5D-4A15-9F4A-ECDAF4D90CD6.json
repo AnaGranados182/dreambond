@@ -50,8 +50,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 173,
-    "x": 183,
+    "width": 186,
+    "x": 196,
     "y": 9
   },
   "glyphBounds": "{{0, 3}, {172, 16}}",
@@ -140,5 +140,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

@@ -19,8 +19,8 @@
     "constrainProportions": false,
     "height": 1795,
     "width": 1443,
-    "x": -5,
-    "y": -4
+    "x": -2,
+    "y": -9
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Rectangle",

@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -47,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -56,14 +65,6 @@
     {
       "class": "text",
       "id": "88739375-43B1-462E-8A9E-CBF588301941"
-    },
-    {
-      "class": "text",
-      "id": "BEA4A69F-10CF-417E-83D3-3ADA39C2FF6D"
-    },
-    {
-      "class": "text",
-      "id": "81038D77-DA7C-41A2-BC18-52A9FEB5E491"
     },
     {
       "class": "text",
@@ -78,12 +79,28 @@
       "id": "924275E6-5E0B-482F-B96C-91DC2403105C"
     },
     {
-      "class": "group",
-      "id": "251A4EF7-41F9-4740-8DD4-73C3E3D9EF16"
+      "class": "rectangle",
+      "id": "C2F28968-C8A9-4E9F-9281-E9CE8ED425FE"
     },
     {
-      "class": "group",
-      "id": "112192C4-4B95-4066-8075-501BFD8FDA90"
+      "class": "rectangle",
+      "id": "06533525-D0A9-43A1-B914-4D9FD30C76DB"
+    },
+    {
+      "class": "text",
+      "id": "714A7EAC-B48E-43FD-B686-98363AC90495"
+    },
+    {
+      "class": "text",
+      "id": "833C32EB-AF9E-477E-AE71-02E31371BECE"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DD49E98-5E5C-4DA1-8CE6-DACCDA583C84"
+    },
+    {
+      "class": "text",
+      "id": "8C070E32-1D1B-42D4-AD66-C47162956B4A"
     }
   ],
   "layout": {

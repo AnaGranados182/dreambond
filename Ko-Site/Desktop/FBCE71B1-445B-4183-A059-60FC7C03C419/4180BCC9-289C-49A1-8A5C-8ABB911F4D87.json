@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 37,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Jr. Digital Designer at Claro Clombia"
+    "string": "Jr. Digital Designer "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 23,
-    "width": 305,
-    "x": 396,
-    "y": 584
+    "width": 321,
+    "x": 394,
+    "y": 690
   },
-  "glyphBounds": "{{0, 3}, {255, 16}}",
+  "glyphBounds": "{{0, 3}, {134, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Jr. Digital Designer Copy",
+  "name": "Jr. Digital Designer",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

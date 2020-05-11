@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 22
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 81,
         "location": 0
       }
     ],
-    "string": "Sign in with one of these accounts"
+    "string": "Your access requires your Lion Login (LL) ID Please DO NOT USE your email address"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 336,
+    "height": 48,
+    "width": 394,
     "x": 949,
-    "y": 257
+    "y": 258
   },
-  "glyphBounds": "{{0, 3}, {334, 22}}",
+  "glyphBounds": "{{0, 2}, {389, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sign in with one of",
+  "name": "Your access requires",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -127,7 +127,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 22
+            "size": 20
           }
         },
         "paragraphStyle": {
@@ -140,5 +140,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Italic",
+              "name": "Roboto-Regular",
               "size": 16
             }
           },
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "(Current Job)"
+    "string": "Claro Colombia"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 23,
-    "width": 111,
-    "x": 811,
-    "y": 584
+    "width": 117,
+    "x": 831,
+    "y": 689
   },
-  "glyphBounds": "{{10, 2}, {91, 17}}",
+  "glyphBounds": "{{4, 3}, {109, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "(Current Job) Copy",
+  "name": "Claro Colombia",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -127,7 +127,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Italic",
+            "name": "Roboto-Regular",
             "size": 16
           }
         },
