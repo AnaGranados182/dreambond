@@ -252,6 +252,10 @@
     },
     {
       "class": "rectangle",
+      "id": "08156FB1-8B8F-41E7-BE72-18630E3ABC74"
+    },
+    {
+      "class": "rectangle",
       "id": "ED3DC260-FFAB-4B85-9770-76D178E98248"
     },
     {
@@ -269,6 +273,10 @@
     {
       "class": "text",
       "id": "2045C057-C2EB-4A29-AF69-62F84340DA1D"
+    },
+    {
+      "class": "text",
+      "id": "DDCC2258-D6F1-4683-BB90-3F0A9CCFA240"
     },
     {
       "class": "text",

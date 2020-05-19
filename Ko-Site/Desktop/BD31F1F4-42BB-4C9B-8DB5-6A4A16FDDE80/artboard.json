@@ -263,6 +263,14 @@
       "id": "D4AA15AA-B800-4BC3-A933-5995BFBEF8F4"
     },
     {
+      "class": "rectangle",
+      "id": "5BAECCD0-F17B-4648-95F1-9A8A550E64A3"
+    },
+    {
+      "class": "text",
+      "id": "908AAB18-0D34-4CD9-8553-580D1224C108"
+    },
+    {
       "class": "text",
       "id": "EA1004AE-56ED-42EA-AD65-E5B6FE8F437E"
     },
