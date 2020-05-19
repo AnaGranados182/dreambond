@@ -68,11 +68,19 @@
     },
     {
       "class": "rectangle",
+      "id": "C2989188-CFE7-4006-98E7-313C3112A40A"
+    },
+    {
+      "class": "rectangle",
       "id": "6F33BE91-1E8B-424E-9ACC-3052BD82BA1B"
     },
     {
       "class": "text",
       "id": "A63726F9-1A75-415E-A6BB-98E44B4B8F1C"
+    },
+    {
+      "class": "text",
+      "id": "15323E9B-E8E9-46E5-B17B-6BAD6040A123"
     },
     {
       "class": "text",
@@ -245,6 +253,14 @@
     {
       "class": "text",
       "id": "765CCADC-8363-49A4-8DC2-08910F7B401E"
+    },
+    {
+      "class": "text",
+      "id": "D079CFD9-7824-4CA7-8803-6B8FD6AB1D40"
+    },
+    {
+      "class": "text",
+      "id": "8AE2A0A8-374D-4A16-B9F7-E6B3A5A8A133"
     },
     {
       "class": "text",

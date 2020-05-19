@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
+    "height": 285,
     "width": 281,
     "x": 1059,
     "y": 79
@@ -59,6 +59,10 @@
     {
       "class": "text",
       "id": "3E430148-3489-4546-9125-9D34CF5A4F40"
+    },
+    {
+      "class": "text",
+      "id": "4BB7DCF6-8496-484D-BB02-1FE49AA30ED3"
     },
     {
       "class": "shapePath",

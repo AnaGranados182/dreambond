@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Bold",
-              "size": 25
+              "name": "Roboto-Bold",
+              "size": 22
             }
           },
           "paragraphStyle": {
@@ -42,8 +42,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Gotham-Medium",
-              "size": 25
+              "name": "Roboto-Medium",
+              "size": 22
             }
           },
           "paragraphStyle": {
@@ -76,11 +76,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 227,
-    "x": 96,
-    "y": 138
+    "width": 205,
+    "x": 629,
+    "y": 144
   },
-  "glyphBounds": "{{1, 1}, {225, 24}}",
+  "glyphBounds": "{{0, 3}, {173, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -152,8 +152,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Gotham-Bold",
-            "size": 25
+            "name": "Roboto-Bold",
+            "size": 22
           }
         },
         "paragraphStyle": {
@@ -166,5 +166,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

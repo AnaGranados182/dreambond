@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Digital Marketing"
+    "string": "Media"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 219,
+    "width": 77,
     "x": 309,
     "y": 1110
   },
-  "glyphBounds": "{{2, 1}, {215, 24}}",
+  "glyphBounds": "{{2, 1}, {73, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Digital Marketing",
+  "name": "Media",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

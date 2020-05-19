@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "MIRAR STEPS DE ICIMS\n"
+    "string": "MIRAR STEPS DE ICIMS\nproceso de RH\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
+    "height": 75,
     "width": 235,
-    "x": 170,
-    "y": 709
+    "x": 160,
+    "y": 1053
   },
-  "glyphBounds": "{{1, 4}, {233, 17}}",
+  "glyphBounds": "{{1, 4}, {233, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

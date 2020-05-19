@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 35,
-    "width": 163,
-    "x": 786,
+    "width": 178,
+    "x": 818,
     "y": 273
   },
   "groupLayout": {
@@ -39,6 +39,10 @@
     {
       "class": "text",
       "id": "7F8357D5-3F90-4061-AEEF-C8709A43FC8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61F02004-D3F4-4D9B-8385-D04089D0E157"
     }
   ],
   "name": "Group 12 Copy 2",

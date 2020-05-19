@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 35,
-    "width": 136,
+    "width": 155,
     "x": 629,
     "y": 273
   },
@@ -35,6 +35,10 @@
     {
       "class": "rectangle",
       "id": "E3D6F089-8700-4EE7-AD4A-51E68220E69B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1F2B6B9-366C-47C1-8DDE-A697620C71A2"
     },
     {
       "class": "text",
