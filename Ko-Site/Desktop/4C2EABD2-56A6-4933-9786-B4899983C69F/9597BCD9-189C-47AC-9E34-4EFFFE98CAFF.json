@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 19.59999966621399
+              "size": 13.71999953269959
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 29.39999949932098,
-            "minimumLineHeight": 29.39999949932098
+            "maximumLineHeight": 20.57999929904938,
+            "minimumLineHeight": 20.57999929904938
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 106,
-    "width": 903,
-    "x": 271,
-    "y": 914
+    "height": 74,
+    "width": 633,
+    "x": 714,
+    "y": 770
   },
-  "glyphBounds": "{{1, 6}, {877, 79}}",
+  "glyphBounds": "{{0, 4}, {614, 55}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 13.99999976158142,
+      "radius": 9.79999966621399,
       "saturation": 1,
       "type": 0
     },
@@ -130,15 +130,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 19.59999966621399
+            "size": 13.71999953269959
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 29.39999949932098,
-          "minimumLineHeight": 29.39999949932098
+          "maximumLineHeight": 20.57999929904938,
+          "minimumLineHeight": 20.57999929904938
         },
         "textStyleVerticalAlignmentKey": 0
       },

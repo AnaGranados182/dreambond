@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -208,7 +208,7 @@
     "gutterHeight": 12,
     "gutterWidth": 32.66666666666666,
     "guttersOutside": true,
-    "horizontalOffset": 80,
+    "horizontalOffset": -50,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,

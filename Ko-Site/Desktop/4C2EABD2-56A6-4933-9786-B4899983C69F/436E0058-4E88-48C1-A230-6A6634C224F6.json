@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1,
-    "width": 880,
-    "x": 277,
-    "y": 604
+    "width": 616,
+    "x": 719,
+    "y": 553
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -65,15 +65,15 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 6.99999988079071,
       "saturation": 1,
       "type": 0
     },
     "borderOptions": {
       "_class": "borderOptions",
       "dashPattern": [
-        4,
-        8
+        2.799999952316284,
+        5.599999904632568
       ],
       "isEnabled": true,
       "lineCapStyle": 2,
@@ -128,7 +128,7 @@
         },
         "isEnabled": true,
         "position": 0,
-        "thickness": 1
+        "thickness": 0.699999988079071
       }
     ],
     "colorControls": {

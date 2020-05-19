@@ -18,7 +18,7 @@
     "height": 11,
     "width": 15,
     "x": 31,
-    "y": 743
+    "y": 829
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,6 +35,10 @@
     {
       "class": "shapePath",
       "id": "91AF843D-9D19-4D2A-93A7-13BD4CAF1E5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0647198-734A-4543-8C2B-67A776914C0B"
     },
     {
       "class": "shapePath",

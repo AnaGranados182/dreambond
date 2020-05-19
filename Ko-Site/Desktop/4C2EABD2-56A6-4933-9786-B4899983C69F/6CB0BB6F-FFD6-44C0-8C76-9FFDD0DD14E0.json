@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 3,
-    "width": 945,
-    "x": 255,
-    "y": 1312
+    "width": 662,
+    "x": 703,
+    "y": 1049
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -65,7 +65,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 13.99999976158142,
+      "radius": 9.79999966621399,
       "saturation": 1,
       "type": 0
     },
@@ -126,7 +126,7 @@
         },
         "isEnabled": true,
         "position": 0,
-        "thickness": 1.399999976158142
+        "thickness": 0.9799999666213992
       }
     ],
     "colorControls": {

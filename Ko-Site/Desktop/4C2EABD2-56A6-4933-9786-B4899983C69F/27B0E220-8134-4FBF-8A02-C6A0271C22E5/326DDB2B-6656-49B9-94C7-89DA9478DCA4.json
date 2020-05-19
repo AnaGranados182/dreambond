@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 19.59999966621399
+              "size": 13.71999953269959
             }
           },
           "paragraphStyle": {
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27.99999952316284,
-    "width": 92.39999842643738,
-    "x": 32.19999945163727,
-    "y": 11.19999980926514
+    "height": 19.59999933242798,
+    "width": 64.67999779701235,
+    "x": 22.53999923229218,
+    "y": 7.839999732971196
   },
-  "glyphBounds": "{{0, 3}, {86, 16}}",
+  "glyphBounds": "{{0, 2}, {61, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,7 +76,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 13.99999976158142,
+      "radius": 9.79999966621399,
       "saturation": 1,
       "type": 0
     },
@@ -127,7 +127,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 19.59999966621399
+            "size": 13.71999953269959
           }
         },
         "paragraphStyle": {
