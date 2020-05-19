@@ -53,31 +53,11 @@
     },
     {
       "class": "artboard",
-      "id": "6280214A-C97A-48D2-ADDA-7EB5102F8F1F"
-    },
-    {
-      "class": "artboard",
-      "id": "8DBA3CD0-097D-4023-BD9B-641A2410A5F7"
-    },
-    {
-      "class": "artboard",
       "id": "52F3B2D7-76BC-478B-9D41-984B81942799"
     },
     {
       "class": "artboard",
-      "id": "BE899527-4AA4-4028-B093-C324247DFE18"
-    },
-    {
-      "class": "artboard",
       "id": "11F0FE39-8608-41E1-B542-356EE42B8356"
-    },
-    {
-      "class": "artboard",
-      "id": "F896BD36-1832-45B0-B6D7-6E78CC54C9B6"
-    },
-    {
-      "class": "artboard",
-      "id": "8F6D1EBD-55AA-4037-B6C5-328B7F4871FC"
     },
     {
       "class": "artboard",
@@ -86,10 +66,6 @@
     {
       "class": "artboard",
       "id": "D1D5B8E6-57C2-408D-9E0A-98EB5EFFFFB5"
-    },
-    {
-      "class": "artboard",
-      "id": "FBCE71B1-445B-4183-A059-60FC7C03C419"
     },
     {
       "class": "artboard",
@@ -118,6 +94,34 @@
     {
       "class": "bitmap",
       "id": "9F93575B-450C-48DC-B79C-53FC07F0E247"
+    },
+    {
+      "class": "artboard",
+      "id": "98523D40-313B-48D7-8475-F1C810A01581"
+    },
+    {
+      "class": "artboard",
+      "id": "368D087C-57CB-4BB8-A7D8-09D7D51A2524"
+    },
+    {
+      "class": "artboard",
+      "id": "9A1175BD-41AA-4084-8BC8-AD580E5057A0"
+    },
+    {
+      "class": "artboard",
+      "id": "25A86A11-4EED-4BA5-83DF-0C74851F1C56"
+    },
+    {
+      "class": "artboard",
+      "id": "674C15EE-6507-47EF-B62E-EBD5FC74BFDD"
+    },
+    {
+      "class": "artboard",
+      "id": "3BF38B93-5DCF-4CA0-8887-FC4957AEC0C7"
+    },
+    {
+      "class": "artboard",
+      "id": "9160129A-4680-4EDB-B325-951713968D6D"
     }
   ],
   "name": "Desktop",
