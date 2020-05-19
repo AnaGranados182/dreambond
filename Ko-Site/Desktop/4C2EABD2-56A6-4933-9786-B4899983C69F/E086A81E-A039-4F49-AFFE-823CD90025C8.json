@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Bold",
-              "size": 24.49999916553498
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -52,10 +52,10 @@
     "constrainProportions": false,
     "height": 29,
     "width": 137,
-    "x": 705,
-    "y": 1068
+    "x": 598,
+    "y": 530
   },
-  "glyphBounds": "{{0, 4}, {60, 20}}",
+  "glyphBounds": "{{0, 4}, {49, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -128,7 +128,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Bold",
-            "size": 24.49999916553498
+            "size": 20
           }
         },
         "paragraphStyle": {

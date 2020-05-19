@@ -97,6 +97,10 @@
     },
     {
       "class": "artboard",
+      "id": "BD31F1F4-42BB-4C9B-8DB5-6A4A16FDDE80"
+    },
+    {
+      "class": "artboard",
       "id": "847B11D3-9734-4E98-9192-8D7EE9D20C45"
     },
     {
@@ -110,6 +114,10 @@
     {
       "class": "artboard",
       "id": "C45C89DA-0B00-461F-B937-9F91A9F7CCC5"
+    },
+    {
+      "class": "bitmap",
+      "id": "9F93575B-450C-48DC-B79C-53FC07F0E247"
     }
   ],
   "name": "Desktop",

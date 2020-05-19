@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "Roboto-Bold",
               "size": 21.55999926567078
             }
           },
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 50,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Digital Designer of Universidad Jorge Tadeo Lozano"
+    "string": "Graphic Designer UI/UX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 542,
-    "x": 714,
-    "y": 375
+    "width": 280,
+    "x": 596,
+    "y": 465
   },
-  "glyphBounds": "{{1, 3}, {492, 22}}",
+  "glyphBounds": "{{0, 3}, {229, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Digital Designer of",
+  "name": "Graphic Designer UI/",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -127,7 +127,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "Roboto-Bold",
             "size": 21.55999926567078
           }
         },

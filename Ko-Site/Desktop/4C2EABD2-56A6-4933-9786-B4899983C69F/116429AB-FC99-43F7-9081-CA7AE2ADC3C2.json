@@ -18,9 +18,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1541,
-    "width": 426,
+    "width": 394,
     "x": 96,
-    "y": 270
+    "y": 433
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -173,9 +173,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6551460597826086,
-          "green": 0.6551460597826086,
-          "red": 0.6551460597826086
+          "blue": 0.9629472373188406,
+          "green": 0.9629472373188406,
+          "red": 0.9629472373188406
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
