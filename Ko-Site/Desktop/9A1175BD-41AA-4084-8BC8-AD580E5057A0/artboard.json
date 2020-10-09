@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -203,12 +203,28 @@
       "id": "E766DCE4-15AD-49EF-BDEC-ACEACD0E0A9C"
     },
     {
+      "class": "text",
+      "id": "23FC5C45-2A4B-4ACE-BF1D-292F79172258"
+    },
+    {
+      "class": "bitmap",
+      "id": "58FE925C-B1D5-4843-89B1-3EB8A150F3B8"
+    },
+    {
       "class": "rectangle",
       "id": "9429854C-35A1-4B55-8ADD-70FD6A94047A"
     },
     {
       "class": "rectangle",
       "id": "62F5B0F3-1637-490C-BE06-6CA8ACC74D82"
+    },
+    {
+      "class": "rectangle",
+      "id": "F5AD4727-19B8-4ADE-B62B-04D71FCDB400"
+    },
+    {
+      "class": "rectangle",
+      "id": "35675C07-BFDC-43D9-A760-E30A489A4875"
     },
     {
       "class": "text",
@@ -219,16 +235,8 @@
       "id": "9C018836-E737-4BB0-85B7-595AB0E68461"
     },
     {
-      "class": "group",
-      "id": "6B07CE4B-37D8-4F4F-A597-82422714D06E"
-    },
-    {
       "class": "rectangle",
       "id": "7242DE27-DEDB-4BD2-981E-CBAB5AF51E23"
-    },
-    {
-      "class": "rectangle",
-      "id": "906FEA94-5795-4689-A4DC-2CED811EE758"
     },
     {
       "class": "rectangle",
@@ -249,10 +257,6 @@
     {
       "class": "group",
       "id": "068B3305-AFC3-4AA6-8BAF-8723707A1F2D"
-    },
-    {
-      "class": "text",
-      "id": "AB1EB727-4592-47C3-ABCB-FC5E5644F146"
     },
     {
       "class": "text",
@@ -592,15 +596,7 @@
     },
     {
       "class": "oval",
-      "id": "7019C7EF-77C7-4542-9556-0C0320CF0849"
-    },
-    {
-      "class": "oval",
       "id": "70E43F65-CB21-48BD-9D14-2E793C58E3CE"
-    },
-    {
-      "class": "oval",
-      "id": "405EBDFC-95B0-4232-B955-7C15F2C10D4D"
     },
     {
       "class": "oval",
@@ -701,10 +697,6 @@
     {
       "class": "group",
       "id": "FEADCDF9-94C9-4E3D-8DA9-833984F668A8"
-    },
-    {
-      "class": "oval",
-      "id": "87832296-DE97-4C59-A05B-C5934714C95D"
     },
     {
       "class": "oval",
@@ -849,6 +841,14 @@
     {
       "class": "group",
       "id": "A4C5ED12-A8CA-4349-B2C6-2A55CBE7A28C"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DB86B86-F75D-4A99-BB06-EF132EBBBA2B"
+    },
+    {
+      "class": "shapePath",
+      "id": "08CF13D6-2F01-40BA-8FC9-53EF926090FF"
     }
   ],
   "layout": {

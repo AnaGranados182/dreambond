@@ -75,10 +75,6 @@
       "id": "A44D0C6D-1D3D-440C-B725-F94E6FBC2729"
     },
     {
-      "class": "group",
-      "id": "924275E6-5E0B-482F-B96C-91DC2403105C"
-    },
-    {
       "class": "rectangle",
       "id": "C2F28968-C8A9-4E9F-9281-E9CE8ED425FE"
     },
@@ -101,6 +97,14 @@
     {
       "class": "text",
       "id": "8C070E32-1D1B-42D4-AD66-C47162956B4A"
+    },
+    {
+      "class": "text",
+      "id": "FE39EE01-FF13-4156-A960-2C744A2B90EC"
+    },
+    {
+      "class": "bitmap",
+      "id": "E439F206-C1FF-46E6-A3AD-A44074D9EBD9"
     }
   ],
   "layout": {

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "Gotham-Bold",
               "size": 25
             }
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 301,
+    "height": 25,
+    "width": 438,
     "x": 230,
-    "y": 265
+    "y": 268
   },
-  "glyphBounds": "{{1, 3}, {275, 26}}",
+  "glyphBounds": "{{2, 1}, {310, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "Digital Designer Pro",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -127,7 +127,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "Gotham-Bold",
             "size": 25
           }
         },

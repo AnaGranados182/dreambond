@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "Gotham-Medium",
               "size": 18
             }
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
+    "height": 18,
     "width": 209,
     "x": 1134,
-    "y": 36
+    "y": 39
   },
-  "glyphBounds": "{{1, 3}, {165, 18}}",
+  "glyphBounds": "{{1, 0}, {189, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -126,7 +126,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "Gotham-Medium",
             "size": 18
           }
         },

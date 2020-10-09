@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 1807,
     "width": 1440,
-    "x": 9398,
-    "y": -623
+    "x": 5985,
+    "y": -615
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -159,18 +159,6 @@
       "id": "692B32EA-1E04-4403-A6E8-B9E62FA79689"
     },
     {
-      "class": "group",
-      "id": "2A5CB1B6-2F14-4023-ADEC-E5E00820294C"
-    },
-    {
-      "class": "rectangle",
-      "id": "088869D9-6DDF-4F0E-94E9-814C92A6DB27"
-    },
-    {
-      "class": "text",
-      "id": "4608DAC6-463E-4533-AC7F-B9DF49A14F16"
-    },
-    {
       "class": "text",
       "id": "7B882EAE-D530-4FEF-93B3-5FD3F7F596AA"
     },
@@ -260,10 +248,6 @@
     },
     {
       "class": "rectangle",
-      "id": "35E9DE5E-955E-42D4-A653-909AA4299317"
-    },
-    {
-      "class": "rectangle",
       "id": "9F9DA14E-7D15-4AF0-A7F6-D6165FE596C6"
     },
     {
@@ -281,10 +265,6 @@
     {
       "class": "text",
       "id": "0A33ABC2-4B26-4359-AE06-6DF21D51D733"
-    },
-    {
-      "class": "text",
-      "id": "F7D313E6-00E3-44D8-8645-41DFC1F73C3F"
     },
     {
       "class": "text",
@@ -437,6 +417,14 @@
     {
       "class": "text",
       "id": "003E419A-F7E6-4C6C-8605-94A7CBA9DEFF"
+    },
+    {
+      "class": "text",
+      "id": "6F1BC502-5845-4E7A-B663-BA0B107ECEFF"
+    },
+    {
+      "class": "bitmap",
+      "id": "54E6CC7D-47DB-4DB4-990E-95FA080F2C55"
     }
   ],
   "layout": {

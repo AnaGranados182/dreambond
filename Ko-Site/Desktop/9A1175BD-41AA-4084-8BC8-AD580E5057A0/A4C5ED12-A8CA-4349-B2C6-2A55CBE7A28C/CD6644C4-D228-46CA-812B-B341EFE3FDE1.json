@@ -52,11 +52,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 5,
         "location": 51
       }
     ],
-    "string": "Your candidate was succesfuly saved on requisition 3245"
+    "string": "Your candidate was succesfuly saved on requisition      "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -76,11 +76,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 408,
+    "width": 391,
     "x": 40,
     "y": 194
   },
-  "glyphBounds": "{{0, 2}, {407, 17}}",
+  "glyphBounds": "{{0, 2}, {366, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,7 +88,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "Your candidate was s",
   "nameIsFixed": false,
   "resizingConstraint": 47,

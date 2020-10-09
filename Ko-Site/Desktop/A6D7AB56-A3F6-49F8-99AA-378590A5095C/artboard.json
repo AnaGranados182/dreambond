@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 1607,
     "width": 1180,
-    "x": 11442,
-    "y": -569
+    "x": 7676,
+    "y": -615
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -214,7 +214,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1280
   },
-  "name": "CV final Copy",
+  "name": "CV final PDF visualization",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
